@@ -1,0 +1,1 @@
+This is a mine game written in C.

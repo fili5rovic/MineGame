@@ -1,0 +1,3 @@
+D:/FAKULTET/ASP/MineGame/cmake-build-debug/CMakeFiles/MineGame.dir
+D:/FAKULTET/ASP/MineGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FAKULTET/ASP/MineGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
