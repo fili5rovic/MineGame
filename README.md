@@ -2,7 +2,7 @@
 
 **MineBlast** is a C program that allows users to create a graph of interconnected nodes, simulate mine detonation efficiency, and find the most efficient mine placement for maximum impact. This program is designed to provide insights into the potential effects of mine detonation within a given area.
 
-> This project was developed as part of a university assignment. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
+> This project was developed as the third university assignment for "Algorithms and Data Structures", University of Belgrade School of Electrical Engineering majoring Software Engineering. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
 >
 > Through the GraphMine Detonator project, I appreciate gaining a practical understanding of BFS - its significance and implementation in graph traversal - making my learning journey insightful and enjoyable.
 
